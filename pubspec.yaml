@@ -11,15 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #Flutter
+  cupertino_icons: ^1.0.2
+
   #API
   dio: ^4.0.6
 
   #Tools
   flutter_dotenv: ^5.0.2
   get_it: ^7.2.0
-
-  #Others
-  cupertino_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:
